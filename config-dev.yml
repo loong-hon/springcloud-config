@@ -4,7 +4,7 @@ spring:
     name: config-client
 
 config:
-  info: main branch dev
+  info: main branch dev version=2
 
  
 
