@@ -4,4 +4,4 @@ spring:
     name: config-client
 
 config:
-  info: test main branch
+  info: main branch test
